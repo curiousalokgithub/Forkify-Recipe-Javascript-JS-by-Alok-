@@ -1,1 +1,1 @@
-# Forkify-Recipe-Javascript-JS-by-Alok-
+# Forkify-Recipe
